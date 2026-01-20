@@ -4,4 +4,4 @@
 🛠️ Passionate about building scalable, high-performance systems  
 🤝 Open to collaboration on backend & API-driven projects  
 📫 Reach me at: uzairsaeed2015@gmail.com  
-🔗 LinkedIn: linkedin.com/in/uzair675 
+🔗 LinkedIn: https://linkedin.com/in/uzair675 
